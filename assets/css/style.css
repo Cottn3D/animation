@@ -1,0 +1,21 @@
+
+*{
+    font-family:Helvetica, Arial, sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+    background-color: rgb(41, 41, 41);
+}
+
+#main{
+    background-color: gray;
+}
+
+#model{
+    width: 90%;
+    height: 80vh;
+    margin:5%;
+}
